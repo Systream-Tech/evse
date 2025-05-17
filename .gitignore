@@ -1,0 +1,31 @@
+# Build folders
+/build/
+/build-*/
+/out/
+/bin/
+/lib/
+/install/
+/etc/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# Compiled binaries and libraries
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.lib
+*.pdb
+
+# Logs and generated files
+*.log
+*.tmp
+
